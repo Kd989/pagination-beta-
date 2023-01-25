@@ -1,0 +1,81 @@
+.bar {
+    height: 47px;
+    width: 100%;
+    background-color: grey;
+
+    /* border: 5px black solid; */
+}
+
+.hamburgerIcon {
+    height: 44px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+
+
+
+}
+
+.offbar {
+    transition: all ease 0.1s;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    border-bottom: 1px solid #b9a3a39f;
+}
+
+.cross-wrap {
+    height: 60px;
+    width: auto;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 10px;
+
+}
+
+.icon-barss {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px grey;
+
+}
+
+.icon-barss img{
+    width: 266px;
+  
+    padding: 27px;
+}
+
+.dashboard {
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+
+
+
+}
+
+.main-dashboard {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.masterslist li {
+    padding: 10px;
+}

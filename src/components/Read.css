@@ -1,0 +1,28 @@
+.table{
+    /* border: 1px solid red; */
+    /* width: 50vw !important; */
+    
+}
+
+td{
+    width: 70px !important;
+}
+
+
+.taskTable {
+    width: 100vw;
+}
+
+.taskTh {
+    padding: 2rem;
+}
+
+.taskTd {
+    height: 8rem;
+
+}
+
+img{
+    width: 40px;
+    object-fit: cover;
+}
